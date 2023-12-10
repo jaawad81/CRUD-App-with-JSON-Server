@@ -1,20 +1,43 @@
-# CRUD APP WITH JSON SERVER
+# CRUD App with JSON Server
 
-<p>A react app that has functionalities of Create, Read, Update and Delete to the JSON Server with Redux Toolkit.</p>
+This is a React application that provides Create, Read, Update, and Delete (CRUD) operations using a JSON Server and Redux Toolkit.
 
-<p>All  the Compoenets are independent to each other and designs separately.</p>
+## Features
 
-<h3>Following are packages used to build this App.</h3>
-<ul>
-<li>React + Vite</li>
-<li>React Router Dom</li>
-<li>Redux Toolkit</li>
-<li>Tailwind CSS</li>
-</ul>
+- All components are designed to be independent and reusable.
+- CRUD operations are performed on a JSON Server.
+- State management is handled with Redux Toolkit.
 
-<h3> All Users</h3>
-<img src='./src/assets/All Users.png'>
-<h3> Create Page</h3>
-<img src='./src/assets/Create.png'>
-<h3> Update Page</h3>
-<img src='./src/assets/Update.png'>
+## Technologies Used
+
+- [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- [React Router Dom](https://reactrouter.com/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Screenshots
+
+### All Users
+![All Users](./src/assets/All Users.png)
+
+### Create Page
+![Create Page](./src/assets/Create.png)
+
+### Update Page
+![Update Page](./src/assets/Update.png)
+
+## Installation and Setup
+
+1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
+2. Navigate into the directory: `cd your-repo-name`
+3. Install the dependencies: `npm install`
+4. Start the JSON Server: `npm run server`
+5. Start the application: `npm run start`
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
