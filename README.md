@@ -18,7 +18,7 @@ This is a React application that provides Create, Read, Update, and Delete (CRUD
 ## Screenshots
 
 ### All Users
-![All Users](./src/assets/All Users.png)
+![All Users](./src/assets/Users.png)
 
 ### Create Page
 ![Create Page](./src/assets/Create.png)
@@ -28,10 +28,10 @@ This is a React application that provides Create, Read, Update, and Delete (CRUD
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Navigate into the directory: `cd your-repo-name`
+1. Clone the repository: `git clone https://github.com/yourusername/CRUD-App-with-JSON-Server.git`
+2. Navigate into the directory: `cd CRUD-App-with-JSON-Server`
 3. Install the dependencies: `npm install`
-4. Start the JSON Server: `npm run server`
+4. Start the JSON Server: `npm run`
 5. Start the application: `npm run start`
 
 ## Contributing
